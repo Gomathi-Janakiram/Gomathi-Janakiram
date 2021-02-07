@@ -21,3 +21,16 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<br/>
+
+<h3> 📈 &nbsp;GitHub Analytics </h3>
+
+
+<a href="https://github.com/vamshisai98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamshisai98&show_icons=true&theme=merko&locale=en" alt="vamshisai" />
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamshisai98&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vamshisai" />
+</a>
+
+
+<br/>
