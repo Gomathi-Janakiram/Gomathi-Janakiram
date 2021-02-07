@@ -36,8 +36,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gomathi-janakiram-ab75041a0/"><img src="https://img.shields.io/badge/-SaiVamshiAnirudh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gomathirengavilas@gmail.com"><img src="https://img.shields.io/badge/-saivamshianirudh136@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gomathi-janakiram-ab75041a0/"><img src="https://img.shields.io/badge/-Gomathi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gomathirengavilas@gmail.com"><img src="https://img.shields.io/badge/-gomathirengavilas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br/>
